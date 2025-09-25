@@ -182,5 +182,5 @@ This project shows how **AI and automation** can drastically improve supply chai
 ## 📎 License & Credits
 
 - Tools Used: [n8n](https://n8n.io) | [Supabase](https://supabase.com) | [Quadratic](https://quadratic.to) | [PostgreSQL](https://www.postgresql.org/)  
-- Developed by: **[Your Name]**  
+- Developed by: Akshay kumar Vennu  
 - © 2025 Supply Chain Analytics Portfolio Project
